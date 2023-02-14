@@ -49,7 +49,11 @@ python 220709_FGSM_CNN.ipynb \
   -- overwrite_output_dri True
 ```  
 
+#### 웹 개발
+[깃허브 코드](https://github.com/JJungEEun/22_HF383_web)
 
+#### 적대적 공격, GAN 스터디
+[깃허브 코드 및 블로그 정리](https://github.com/JJungEEun/Adversarial_AI_attack)
 
 ### 수행결과
 ---
